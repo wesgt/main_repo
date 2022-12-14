@@ -1,0 +1,3 @@
+[submodule "research"]
+	path = research
+	url = git@github.com:wesgt/research_repo.git
